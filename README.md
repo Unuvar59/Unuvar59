@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Unuvar59
 - 👀 I’m interested in python and android
 - 🌱 I’m currently learning Python and Java
--     I'm CEO of Fn Meinss Company
+
 
 
 <!---
