@@ -6,7 +6,7 @@
 ### 🚀 About Me
 - 🎮 **Game Developer** | Unity (C#) | 2D/3D Game Mechanics  
 - 🤖 **Robotics & Embedded Systems** | Arduino | Hardware-Software Integration  
-- 📱 **Mobile Developer** | Android (Java) | UI/UX Design  
+- 📱  **Mobile Developer** | Android (Java) | UI/UX Design  
 - 🔬 **AI & Data Engineering** | Machine Learning | Data Analytics  
 - 🎨 **3D Modeling & Design** | SketchUp | Spatial Thinking  
 
